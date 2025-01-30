@@ -1,0 +1,14 @@
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.AssemblyInfoInputs.cache
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.AssemblyInfo.cs
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.csproj.CoreCompileInputs.cache
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.dll
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\refint\structs.dll
+c:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.pdb
+c:\Users\alefe\Desktop\Vs Code\C#\structs\bin\Debug\net9.0\structs.exe
+C:\Users\alefe\Desktop\Vs Code\C#\structs\bin\Debug\net9.0\structs.deps.json
+C:\Users\alefe\Desktop\Vs Code\C#\structs\bin\Debug\net9.0\structs.runtimeconfig.json
+c:\Users\alefe\Desktop\Vs Code\C#\structs\bin\Debug\net9.0\structs.dll
+c:\Users\alefe\Desktop\Vs Code\C#\structs\bin\Debug\net9.0\structs.pdb
+C:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\structs.genruntimeconfig.cache
+C:\Users\alefe\Desktop\Vs Code\C#\structs\obj\Debug\net9.0\ref\structs.dll
