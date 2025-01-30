@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório! Aqui estou reunindo uma coleção de mini projeto
 
 Este repositório é um espaço onde guardo exercícios e desafios que me ajudam a entender melhor as linguagens de programação e conceitos importantes. **Não é um guia definitivo**, mas sim um registro do meu aprendizado e uma forma de compartilhar com outras pessoas que também estão começando.
 
-Os exercícios estão organizados por categorias e linguagens, e eu tento seguir uma progressão para aprender aos poucos. 
+Os exercícios estão organizados por categorias, e eu tento seguir uma progressão para aprender aos poucos. 
 
 ---
 
