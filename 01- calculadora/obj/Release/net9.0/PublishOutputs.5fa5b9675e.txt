@@ -1,0 +1,5 @@
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Executavel\Calc.exe
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Executavel\Calc.dll
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Executavel\Calc.deps.json
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Executavel\Calc.runtimeconfig.json
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Executavel\Calc.pdb

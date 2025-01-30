@@ -1,0 +1,5 @@
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Calc\bin\Release\net9.0\publish\Calc.exe
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Calc\bin\Release\net9.0\publish\Calc.dll
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Calc\bin\Release\net9.0\publish\Calc.deps.json
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Calc\bin\Release\net9.0\publish\Calc.runtimeconfig.json
+C:\Users\alefe\Desktop\Vs Code\C#\calculadora\Calc\bin\Release\net9.0\publish\Calc.pdb
