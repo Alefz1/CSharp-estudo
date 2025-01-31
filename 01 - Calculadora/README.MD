@@ -1,10 +1,13 @@
-# Cálculo da Média de Números
+# Calculadora Simples
 
-Este é um simples programa em C# que permite ao usuário inserir uma quantidade de números entre 3 e 10, e em seguida calcula a média desses números. O código valida a entrada de dados para garantir que o número de elementos esteja dentro do intervalo válido e que as entradas sejam numéricas.
+Este é um programa de calculadora simples em C#, que permite ao usuário realizar operações básicas de adição, subtração, multiplicação e divisão. O programa apresenta um menu com opções e solicita ao usuário que forneça dois números para realizar o cálculo. Ele também valida a divisão por zero.
 
 ## Funcionalidades
 
-- Solicita ao usuário a quantidade de números para calcular a média (entre 3 e 10).
-- Solicita os números e os armazena em uma lista.
-- Calcula e exibe a média desses números.
-
+- **Operações Disponíveis:**
+  - Adição
+  - Subtração
+  - Multiplicação
+  - Divisão (com verificação de divisão por zero)
+- **Menu de Opções:** O programa exibe um menu numerado para o usuário escolher a operação desejada.
+- **Encerramento do Programa:** O usuário pode escolher encerrar o programa a qualquer momento.
