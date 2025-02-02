@@ -6,4 +6,4 @@ Este é um simples programa em C# que permite ao usuário inserir uma quantidade
 
 - Solicita ao usuário a quantidade de números para calcular a média (entre 3 e 10).
 - Solicita os números e os armazena em uma lista.
-- Calcula e exibe a média desses números.
+- Calcula e exibe a média desses números.  
