@@ -2,7 +2,7 @@
 
 Este é um sistema simples em **C#** para **cadastrar, consultar e remover livros** usando um **dicionário** para armazenar os registros.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - 📌 **Cadastrar Livro**: Permite adicionar um novo livro informando **nome, autor e editora**.
 - 🔎 **Consultar Livros**:
